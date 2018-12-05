@@ -4,6 +4,10 @@
 
 This branch resloved the issue "Failed to connect to ton.twimg.com port 443: Connection" with Chinese user. 
 
+In this branch,
+TwitterCore version is 3.2.0
+TwitterKit version is 3.4.2
+
 # CocoaPod
 
 ```ruby
